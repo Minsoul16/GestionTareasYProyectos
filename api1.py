@@ -6,3 +6,4 @@ resultado = resta(3,2)
 print (resultado)
 
 print ("Intento de corregir la protección de ramas")
+print("no puede ser")
