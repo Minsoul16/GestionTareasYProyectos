@@ -1,2 +1,2 @@
 # GestionTareasYProyectos
-Proyecto grupal, software que permite gestionar tareas y proyectos
+Proyecto grupal, software que permite gestionar tareas y proyectos :D.
