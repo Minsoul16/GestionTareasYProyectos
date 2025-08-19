@@ -8,3 +8,5 @@ print (resultado)
 print ("Intento de corregir la protección de ramas")
 print("no puede ser")
 print("Otra vez")
+def mult(v1:float,v2:float)->float:
+  return v1 * v2
