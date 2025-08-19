@@ -5,4 +5,3 @@ def suma(n1:int, n2:int) -> int:
 resultado = suma(1,2)
 print (resultado)
 
-print("")
