@@ -6,3 +6,4 @@ resultado = resta(3,2)
 print (resultado)
 
 print("hola")
+print ("adios y chao")
